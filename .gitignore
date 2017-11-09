@@ -1,4 +1,4 @@
 .idea
-target
+multithreading/target
 *.iml
 multithreading/.idea
